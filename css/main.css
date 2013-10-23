@@ -1,0 +1,49 @@
+body {
+    background-image: url("../images/lossantos.jpg");
+}
+h1 {
+    font-family: 'pricedown_blregular', sans-serif;
+    font-size: 80px;
+    color: #FFFFFF;
+}
+p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+}
+.menubar {
+    position: relative;
+    top: -30px;
+    width: 1000px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'pricedown_blregular', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 3px 2px 3px #333333;
+    background-color: #3d5d26;
+    border-radius: 20px;
+}
+.menubar li { 
+    display: inline; 
+    padding: 30px; 
+}
+.menubar a {
+    position: relative;
+    top: 5px; 
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 8px 8px 8px 8px;
+}
+.menubar a:hover {
+    color: #F90;
+}
+.crewleader {
+    position: absolute;
+    left: 1200px;
+    top: -10px;
+}
+.crewemblem {
+    position: absolute;
+    left: 1285px;
+    top:35px;
+}
