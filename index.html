@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="js/main.js"></script>
-    <script src="js/animal.js"></script>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 </head>
 <body>
     <div class="section1" id="first">
@@ -28,10 +28,12 @@
         literally see and taste it? Dare to dream, because that city exists..."<br/>―GTA V Manual</p>
 
         <iframe width="335" height="215" src="https://www.youtube.com/embed/olEGtoYs_8A" frameborder="0" allowfullscreen></iframe>
-        <canvas></canvas>
 
-        <div class="icons" id "icons">
-            <img src="images/icons/homeicon.png" alt "homeicon"/>
+        <div class="icons" id="icon1">
+            <img src="images/icons/homeicon.png" alt="homeicon"/>
+        </div>
+        <div class="apartment" id="place1">
+            <img src="images/speedvaulter/apartmentSmall.png" alt="expensiveplace"/>
         </div>
     </div>
     <div class="crewleader" id="leader">
@@ -44,6 +46,10 @@
             <a href="http://socialclub.rockstargames.com/crew/lossantos-swedmaffia"><img src="images/speedvaulter/crew_emblem.png" alt="crew"/></a>
         </div>
     </div>
+    <audio id="hover">
+        <source src="sounds/rollover.mp3" type="audio/mp3"/>
+    </audio>
+
     <div class="section2" id="second"></div>
     <div class="section3" id="third"></div>
 </body>

@@ -2,5 +2,16 @@
 /*global $: false, alert: false, confirm: false, console: false, Debug: false, opera: false, prompt: false, WSH: false */
 $(document).ready(function () {
     "use strict";
-    $("h1").fadeIn("slow");
+    var audio = $("#hover")[0];
+    $("#icon1").mouseenter(function () {
+        audio.play();
+    });
+    $("#icon1").click(function () {
+        $("#place1").show("slow", function () {
+            $(this).click(function () {
+                $(this).hide("slow");
+                audio.play();
+            });
+        });
+    });
 });

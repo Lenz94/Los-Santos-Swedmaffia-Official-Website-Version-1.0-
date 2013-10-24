@@ -11,9 +11,20 @@ p {
     color: #ffffff;
 }
 .icons {
-    position: relative;
-    top: -1000px;
-    right: 600px;
+    position: absolute;
+    top: 500px;
+    right: 500px;
+}         
+.icons:hover {
+    opacity:0.4;
+    filter:alpha(opacity=40);
+}
+
+.apartment {
+    display: none;
+    position: absolute;
+    top: 510px;
+    right: 510px;
 }
 .menubar {
     position: relative;
