@@ -25,6 +25,7 @@ p {
     position: absolute;
     top: 510px;
     right: 510px;
+    border-radius: 30px
 }
 .menubar {
     position: relative;
