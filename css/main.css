@@ -10,6 +10,11 @@ p {
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     color: #ffffff;
 }
+.icons {
+    position: relative;
+    top: -1000px;
+    right: 600px;
+}
 .menubar {
     position: relative;
     top: -30px;
