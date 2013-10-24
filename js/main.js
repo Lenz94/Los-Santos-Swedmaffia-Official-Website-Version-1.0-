@@ -4,12 +4,14 @@ $(document).ready(function () {
     "use strict";
     var audio = $("#hover")[0];
     $("#icon1").mouseenter(function () {
+        audio.load();
         audio.play();
     });
     $("#icon1").click(function () {
         $("#place1").show("slow", function () {
             $(this).click(function () {
                 $(this).hide("slow");
+                audio.load();
                 audio.play();
             });
         });
