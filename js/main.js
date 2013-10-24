@@ -5,12 +5,14 @@ $(document).ready(function () {
     var audio = $("#hover")[0];
     $("#icon1").mouseenter(function () {
         audio.play();
+        return false;
     });
     $("#icon1").click(function () {
         $("#place1").show("slow", function () {
             $(this).click(function () {
                 $(this).hide("slow");
                 audio.play();
+                return false;
             });
         });
     });
