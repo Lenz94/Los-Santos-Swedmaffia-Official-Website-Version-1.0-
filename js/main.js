@@ -11,7 +11,7 @@ $(document).ready(function () {
         $("#place1").show("slow", function () {
             $(this).click(function () {
                 $(this).hide("slow");
-                audio.play();
+                audio.load();
                 audio.play();
             });
         });
