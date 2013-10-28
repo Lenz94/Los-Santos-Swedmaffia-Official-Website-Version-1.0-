@@ -1,20 +1,26 @@
 body {
-    background-image: url("../images/lossantos.jpg");
+    min-width: 1240px;
+    background-image: url("../images/hugemapcopy.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%
+
 }
 h1 {
     font-family: 'pricedown_blregular', sans-serif;
     font-size: 80px;
     color: #FFFFFF;
 }
+.icons {
+    position: absolute;
+    margin-top: 93px;
+    margin-left: 737px;
+}    
 p {
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     color: #ffffff;
-}
-.icons {
-    position: absolute;
-    top: 500px;
-    right: 500px;
-}         
+    padding-top: 385px;
+    padding-bottom: 20px;
+}     
 .icons:hover {
     opacity:0.4;
     filter:alpha(opacity=40);
@@ -23,8 +29,8 @@ p {
 .apartment {
     display: none;
     position: absolute;
-    top: 510px;
-    right: 510px;
+    margin-top: 100px;
+    margin-left: 743px;
     border-radius: 30px
 }
 .menubar {
@@ -56,11 +62,16 @@ p {
 }
 .crewleader {
     position: absolute;
-    left: 1200px;
+    left: 870px;
     top: -10px;
 }
 .crewemblem {
     position: absolute;
-    left: 1285px;
-    top:35px;
+    left: 110px;
+    top:20px;
+}
+.credits {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 380px;
 }
