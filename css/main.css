@@ -8,6 +8,7 @@ body {
 h1 {
     font-family: 'pricedown_blregular', sans-serif;
     font-size: 80px;
+    text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
     color: #FFFFFF;
 }
 .icons {
@@ -18,8 +19,9 @@ h1 {
 p {
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     color: #ffffff;
-    padding-top: 385px;
+    padding-top: 395px;
     padding-bottom: 20px;
+
 }     
 .icons:hover {
     opacity:0.4;
@@ -31,7 +33,8 @@ p {
     position: absolute;
     margin-top: 100px;
     margin-left: 743px;
-    border-radius: 30px
+    border-style:solid;
+    border-color:#000000 #000000;
 }
 .menubar {
     position: relative;
@@ -42,7 +45,7 @@ p {
     font-family: 'pricedown_blregular', sans-serif;
     font-weight: bold;
     text-align: left;
-    text-shadow: 3px 2px 3px #333333;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     background-color: #3d5d26;
     border-radius: 20px;
 }
@@ -69,6 +72,13 @@ p {
     position: absolute;
     left: 110px;
     top:20px;
+}
+.lossantosgif {
+    position: absolute;
+    right:690px;
+    top:430px;
+    border-style:solid;
+    border-color:#3d5d26 #3d5d26;
 }
 .credits {
     position: absolute;

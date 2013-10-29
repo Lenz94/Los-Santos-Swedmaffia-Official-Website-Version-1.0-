@@ -5,7 +5,7 @@ $(document).ready(function () {
     var audio = $("#hover")[0];
     $("#icon1").mouseenter(function () {
         audio.play();
-        $("#place1").show("slowt");
+        $("#place1").show("slow");
     });
     $("#place1").mouseleave(function () {
         audio.play();
