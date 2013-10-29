@@ -2,7 +2,8 @@ body {
     min-width: 1240px;
     background-image: url("../images/hugemapcopy.jpg");
     background-repeat: no-repeat;
-    background-size: 100%
+    background-size: cover;
+
 
 }
 h1 {
