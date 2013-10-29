@@ -5,10 +5,10 @@ $(document).ready(function () {
     var audio = $("#hover")[0];
     $("#icon1").mouseenter(function () {
         audio.play();
-        $("#place1").show("slow");
+        $("#place1").fadeIn();
     });
     $("#place1").mouseleave(function () {
         audio.play();
-        $(this).hide("slow");
+        $(this).fadeOut();
     });
 });
