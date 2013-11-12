@@ -1,6 +1,6 @@
 body {
     min-width: 1240px;
-    background-image: url("../images/hugemapcopy.jpg");
+    background-image: url("../images/los_santos_night.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -11,33 +11,7 @@ h1 {
     font-size: 80px;
     text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
     color: #FFFFFF;
-}
-.icons {
-    position: absolute;
-    margin-top: 73px;
-    margin-left: 737px;
 }    
-p {
-    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
-    color: #ffffff;
-    padding-top: 395px;
-    padding-bottom: 20px;
-    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-
-}     
-.icons:hover {
-    opacity:0.4;
-    filter:alpha(opacity=40);
-}
-
-.apartment {
-    display: none;
-    position: absolute;
-    margin-top: 80px;
-    margin-left: 743px;
-    border-style:solid;
-    border-color:#000000 #000000;
-}
 .menubar {
     position: relative;
     top: -30px;
@@ -78,15 +52,18 @@ p {
     left: 110px;
     top:20px;
 }
-.lossantosgif {
+
+.video1 {
     position: absolute;
-    right:690px;
-    top:430px;
+    top: 200px;
+    left: 100px;
     border-style:solid;
     border-color:#3d5d26 #3d5d26;
 }
-.credits {
+.video2 {
     position: absolute;
-    margin-top: 280px;
-    margin-left: 380px;
+    top: 200px;
+    left: 750px;
+    border-style:solid;
+    border-color:#3d5d26 #3d5d26;
 }
