@@ -73,7 +73,7 @@ p {
 .crewemblem {
     position: absolute;
     left: 160px;
-    top:20px;
+    top:10px;
 }
 .lossantosgif {
     position: absolute;
@@ -85,7 +85,10 @@ p {
 .credits {
     position: absolute;
     margin-top: 280px;
-    margin-left: 380px;
+    margin-left: 10px;
+    font-family: 'pricedown_blregular', sans-serif;
+    font-size: 20px;
+    color: #000000;
 }
 .iconplace{
     top:200px;
@@ -94,5 +97,4 @@ p {
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     color: #ffffff;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-
 }

@@ -46,13 +46,13 @@ h1 {
 }
 .crewemblem {
     position: absolute;
-    left: 1029px;
-    top:13px;
+    left: 1028px;
+    top:5px;
 }
 .carbonizzare{
     position: absolute;
-    top:200;
-    left:50;
+    top:200px;
+    left:50px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
@@ -64,8 +64,8 @@ h1 {
 }
 .a9fcabrio{
     position: absolute;
-    top:200;
-    left:350;
+    top:200px;
+    left:370px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
@@ -78,8 +78,8 @@ h1 {
 
 .plistercomet{
     position: absolute;
-    top:200;
-    left:650;
+    top:200px;
+    left:690px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
@@ -91,8 +91,8 @@ h1 {
 }
 .elegyrh8{
     position: absolute;
-    top:200;
-    left:950;
+    top:200px;
+    left:1010px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
@@ -104,8 +104,8 @@ h1 {
 }
 .entityxf{
     position: absolute;
-    top:220;
-    left:-900;
+    top:220px;
+    left:-960px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
@@ -118,8 +118,8 @@ h1 {
 
 .vacca{
     position: absolute;
-    top:220;
-    left:-600;
+    top:220px;
+    left:-640px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
@@ -131,8 +131,8 @@ h1 {
 }
 .sabreturbo{
     position: absolute;
-    top:220;
-    left:-300;
+    top:220px;
+    left:-320px;
     text-align: center;
     font-size: 24px;
     font-family: 'pricedown_blregular', sans-serif;
