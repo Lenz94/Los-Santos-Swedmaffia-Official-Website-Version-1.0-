@@ -7,6 +7,10 @@ $(document).ready(function () {
         audio.play();
         $("#place1").fadeIn();
     });
+    $("#iconplace1").mouseenter(function () {
+        audio.play();
+        $("#place1").fadeIn();
+    });
     $("#place1").mouseleave(function () {
         audio.play();
         $(this).fadeOut();

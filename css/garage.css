@@ -1,6 +1,6 @@
 body {
     min-width: 1240px;
-    background-image: url("../images/los_santos_night.jpg");
+    background-image: url("../images/garage.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -39,9 +39,6 @@ h1 {
 .menubar a:hover {
     color: #F90;
 }
-.menubar a:active{
-    color: #F90;
-}
 .crewleader {
     position: absolute;
     left: 870px;
@@ -49,21 +46,20 @@ h1 {
 }
 .crewemblem {
     position: absolute;
-    left: 160px;
-    top:20px;
+    left: 1029px;
+    top:13px;
 }
-
-.video1 {
+.garage {
     position: absolute;
-    top: 200px;
     left: 100px;
-    border-style:solid;
-    border-color:#3d5d26 #3d5d26;
-}
-.video2 {
-    position: absolute;
     top: 200px;
-    left: 750px;
-    border-style:solid;
-    border-color:#3d5d26 #3d5d26;
+}
+.garage a{
+    font-size: 22px;
+    font-family: 'pricedown_blregular', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    background-color: #3d5d26;
+    border-radius: 30px;
 }
