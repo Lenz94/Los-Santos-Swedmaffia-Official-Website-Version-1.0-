@@ -14,14 +14,14 @@ body {
     top: 200px;
 }
 .lenzgarage a{
-    font-size: 26px;
-    font-family: 'pricedown_blregular', sans-serif;
+    font-size: 22px;
     font-weight: bold;
     color: #ffffff;
-    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     background-color: #3d5d26;
     border-radius: 30px;
     text-decoration: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
 .lenzgarage a:hover {
     color: #F90;
@@ -32,14 +32,14 @@ body {
     top: 200px;
 }
 .bball56garage a{
-    font-size: 26px;
-    font-family: 'pricedown_blregular', sans-serif;
+    font-size: 22px;
     font-weight: bold;
     color: #ffffff;
-    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     background-color: #3d5d26;
     border-radius: 30px;
     text-decoration: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
 .bball56garage a:hover {
     color: #F90;
@@ -50,14 +50,14 @@ body {
     top: 200px;
 }
 .porinero0garage a{
-    font-size: 26px;
-    font-family: 'pricedown_blregular', sans-serif;
+    font-size: 22px;
     font-weight: bold;
     color: #ffffff;
-    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     background-color: #3d5d26;
     border-radius: 30px;
     text-decoration: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
 .porinero0garage a:hover {
     color: #F90;
