@@ -8,12 +8,12 @@ body {
     left: 1030px;
     top:2px;
 }
-.lenzgarage {
+.lenz9405 {
     position: absolute;
     left: 100px;
     top: 200px;
 }
-.lenzgarage a{
+.lenz9405 a{
     font-size: 22px;
     font-weight: bold;
     color: #ffffff;
@@ -23,16 +23,16 @@ body {
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
-.lenzgarage a:hover {
+.lenz9405 a:hover {
     color: #F90;
 }
 
-.bball56garage {
+.mcdow169{
     position: absolute;
     left: 300px;
     top: 200px;
 }
-.bball56garage a{
+.mcdow169 a{
     font-size: 22px;
     font-weight: bold;
     color: #ffffff;
@@ -42,7 +42,7 @@ body {
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
-.bball56garage a:hover {
+.mcdow169 a:hover {
     color: #F90;
 }
 
