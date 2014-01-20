@@ -1,51 +1,65 @@
 body {
-    min-width: 1240px;
-    background-repeat: no-repeat;
     background-size: cover;
 }
-h1 {
-    font-family: 'pricedown_blregular', sans-serif;
-    font-size: 80px;
-    text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
-    color: #FFFFFF;
-}     
+.mainContainer {
+    width: 100%;
+    height: 100%;
+    float: left;   
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.titleContainer {
+    width: 100%;
+    height: 128px;
+    float: left;  
+}
+.title {
+    width: 820px;
+    height: 100px;
+    float: left;
+    background-image: url(../images/title.png);
+} 
+.logoContainer {
+    width: 129px ;
+    height: 130px;
+    padding-left: 60px;
+    float: left;
+  
+}
+.menuContainer {
+    padding-left: 30px;
+    width: 90%;
+    height: 50px;
+    float: left;    
+}
 .menubar {
-    position: relative;
-    top: -30px;
-    width: 1170px;
-    height: 40px;
-    font-size: 30px;
+    height: 50px;
+    float: left;
+    font-size: 32px;
     font-family: 'pricedown_blregular', sans-serif;
     font-weight: bold;
     text-align: left;
     text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     background-color: #3d5d26;
     border-radius: 20px;
+
 }
 .menubar li { 
     display: inline; 
-    padding: 30px; 
+    padding: 32px; 
+    line-height: 50px;
 }
 .menubar a {
-    position: relative;
-    top: 5px; 
     text-decoration: none;
     color: #FFFFFF;
     padding: 8px 8px 8px 8px;
 }
- .menubar a:hover {
+.menubar a:hover {
     color: #F90;
 }
 a.highlight {
     color: #F90;
-}
-.crewleader {
-    position: absolute;
-    left: 870px;
-    top: -10px;
-}
-.crewemblem {
-    position: absolute;
-    left: 160px;
-    top:10px;
 }

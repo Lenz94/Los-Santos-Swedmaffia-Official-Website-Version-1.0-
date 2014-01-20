@@ -1,0 +1,42 @@
+.lossantos-swedmaffia img {
+    height: 75px;
+    width: 150px;
+}
+.lossantos-swedmaffia{
+    position: absolute;
+    height: 210px;
+    width: 150px;
+    top:150px;
+    left:5px;
+    font-size: 7px;
+    font-weight: bold;
+    color: #D0F367;
+    background-color: #180470;
+    border-radius: 1px;
+    text-decoration: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    border-style:solid;
+    border-color:#000000 #000000;
+}
+.ballas img {
+    height: 75px;
+    width: 150px;
+}
+.ballas{
+    position: absolute;
+    height: 200px;
+    width: 150px;
+    top:150px;
+    left: 172px;
+    font-size: 7px;
+    font-weight: bold;
+    color: #BF2DBC;
+    background-color: #000000;
+    border-radius: 1px;
+    text-decoration: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    border-style:solid;
+    border-color:#000000 #000000;
+}

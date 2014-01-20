@@ -1,0 +1,23 @@
+body {
+    background-image: url("../images/videosmobile.jpg");
+}
+.mainVideosContainer {
+    padding-top: 50px;
+    width: 100%;
+    height: 76%;
+    float: left;   
+  
+}
+.videosContainer {
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+.video{
+    padding-left: 5%;
+    padding-bottom: 20px;
+    border-style:solid;
+    border-color:#3d5d26 #3d5d26;
+    float: bottom;
+}
+    

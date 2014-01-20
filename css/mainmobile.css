@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/mainmobile.jpg");
+}
+.section2 {
+    display: none;
+}
+.crewinfo {
+    position: absolute;
+    width: 288px;
+    height: 228px;
+    top:160px;
+    left: 5%;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #D0F367;
+    border-radius: 1px;
+    text-decoration: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    border-style:solid;
+    border-color:#000000 #000000;
+}
+.lossantosgif {
+    display: none;
+}
+.city {
+    display: none;
+}
