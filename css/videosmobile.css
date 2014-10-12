@@ -14,10 +14,16 @@ body {
   
 }
 .video{
-    padding-left: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-bottom: 20px;
     border-style:solid;
-    border-color:#3d5d26 #3d5d26;
+    border-color:#ffff00 #ffff00;
     float: bottom;
 }
+.video iframe{
+    height: 170px;
+    width: 300px;
+}
+
     

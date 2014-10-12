@@ -24,7 +24,7 @@ body {
 .playerName{
     text-decoration: none;
     color: #ffffff;
-    background-color: #3d5d26;
+    background-color: #15467d;
     border-radius: 40px;
     text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     padding-top: 1px;
@@ -35,11 +35,11 @@ body {
 .player img {
     border-bottom-width: 25px;
     border-bottom-style: solid;
-    border-bottom-color: #3D5D26;
+    border-bottom-color: #15467d;
     margin-bottom: -22px;
     border-radius: 10px;
     font-size: 2px;
 }
 .playerName:hover {
-    color: #F90;
+    color: #ffff00;
 }

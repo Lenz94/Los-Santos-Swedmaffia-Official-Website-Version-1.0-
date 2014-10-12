@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/mainmobile.jpg");
+    background-image: url("../images/mainmobilemini.jpg");
 }
 .section2 {
     display: none;
@@ -8,18 +8,36 @@ body {
     position: absolute;
     width: 288px;
     height: 228px;
-    top:160px;
+    top:145px;
     left: 5%;
-    text-align: center;
-    font-size: 14px;
+}
+.info p{
+    position: absolute;
+    top:345px;
+    left: 5%;
+    font-size: 13px;
     font-weight: bold;
-    color: #D0F367;
-    border-radius: 1px;
+    color: #ffffff;
     text-decoration: none;
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
-    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
-    border-style:solid;
-    border-color:#000000 #000000;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.swedairlines{
+    position: absolute;
+    top: 455px;
+    left: 5%;
+    padding-bottom: 20px;
+}
+.swedairlines img{
+    width: 288px;
+    height: 150px;
+    border-color: #3d5d26 #3d5d26;
+}
+.shared_product{
+    position: absolute;
+    top:620px;
+    left: 5%;
+    padding-bottom: 20px;
 }
 .lossantosgif {
     display: none;
