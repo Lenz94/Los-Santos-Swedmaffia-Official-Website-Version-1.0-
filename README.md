@@ -1,4 +1,4 @@
-LosSantosSwedmaffia
+LosSantos-Swedmaffia Official Website Version 1.0
 ===================
 
 ![alt tag](https://raw.github.com/Lenz94/Los-Santos-Swedmaffia-Official-Website-Version-1.0-/master/images/MainScreenshot.png)
