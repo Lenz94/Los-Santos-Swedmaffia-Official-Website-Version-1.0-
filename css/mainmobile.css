@@ -4,24 +4,22 @@ body {
 .section2 {
     display: none;
 }
+
 .crewinfo {
     position: absolute;
     width: 288px;
-    height: 228px;
+    height: 100px;
+    left: 5%;
     top:145px;
-    left: 5%;
-}
-.info p{
-    position: absolute;
-    top:345px;
-    left: 5%;
     font-size: 13px;
     font-weight: bold;
+    background-color: #3d5d26;
+    display: inline-block;
     color: #ffffff;
-    text-decoration: none;
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
+
 .swedairlines{
     position: absolute;
     top: 455px;
